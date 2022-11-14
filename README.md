@@ -43,7 +43,7 @@
 
 | 微信 | QQ | 支付宝 |
 | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/1834423612/makesome.cool@images/wechat.png" alt="Wechat QRcode" width=150> | <img src="https://cdn.jsdelivr.net/gh/1834423612/makesome.cool@images/QQ.png" alt="QQ QRcode" width=150>| <img src="hhttps://cdn.jsdelivr.net/gh/1834423612/makesome.cool@images/alipay.png" alt="Alipay QRcode" width=150> |
+| <img src="https://cdn.jsdelivr.net/gh/1834423612/makesome.cool/images/wechat.png" alt="Wechat QRcode" width=150> | <img src="https://cdn.jsdelivr.net/gh/1834423612/makesome.cool@master/images/qq.png" alt="QQ QRcode" width=150>| <img src="https://cdn.jsdelivr.net/gh/1834423612/makesome.cool/images/alipay.png" alt="Alipay QRcode" width=150> |
 
 二维码没有正常显示？点 [这里😃](http://doc.makesome.cool/pages/sponsor)
 
